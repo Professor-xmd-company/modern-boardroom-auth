@@ -1,0 +1,10 @@
+node_modules
+dist
+.playwright-mcp
+*.log
+login_desktop.png
+login_mobile.png
+signup_desktop.png
+signup_mobile.png
+playwright-report
+test-results
